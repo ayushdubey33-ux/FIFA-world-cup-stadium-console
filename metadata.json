@@ -1,0 +1,6 @@
+{
+  "name": "FIFA World Cup 2026 Stadium Console",
+  "description": "A GenAI-powered dashboard for optimizing real-time stadium operations and enhancing the fan experience at the 2026 World Cup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
